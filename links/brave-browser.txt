@@ -1,0 +1,1 @@
+https://github.com/brave/brave-browser/releases/download/v1.47.186/brave-browser_1.47.186_amd64.deb
